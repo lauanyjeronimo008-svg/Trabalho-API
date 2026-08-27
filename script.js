@@ -4,7 +4,7 @@ const resultado = document.getElementById("resultado");
 const mensagem = document.getElementById("mensagem");
 
 // COLOQUE A SUA CHAVE DA API DO TMDB AQUI
-const API_KEY = "COLOQUE_SUA_CHAVE_AQUI";
+const API_KEY = "9abf32434c2eb21cfd4876fc618d12f8";
 
 botao.addEventListener("click", buscarFilmes);
 
